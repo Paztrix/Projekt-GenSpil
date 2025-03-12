@@ -1,2 +1,2 @@
-# Projekt-Genspil
-USL Projekt Genspil
+# Projekt-GenSpil
+USL Projekt GenSpil
