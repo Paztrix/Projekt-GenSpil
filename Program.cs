@@ -4,7 +4,16 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var games = PsudoDatabase.games;
+
+
+            foreach (var game in games) 
+            { 
+                Console.WriteLine($"{game.gameType.Name}, {game.prize}");
+            }
+
+
+
         }
     }
 }
