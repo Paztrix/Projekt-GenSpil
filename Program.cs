@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            PsudoDatabase.DatabaseSeeder();
             var games = PsudoDatabase.games;
 
 
@@ -12,8 +13,8 @@
                 Console.WriteLine($"{game.gameType.Name}, {game.prize}");
             }
 
-
-
+            PsudoDatabase.AddDummyRequests();
+            Request.DisplayRequests();
         }
     }
 }

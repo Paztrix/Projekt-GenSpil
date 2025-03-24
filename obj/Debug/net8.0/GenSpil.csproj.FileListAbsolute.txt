@@ -1,0 +1,5 @@
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Projekter\Genspil\GenSpil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Projekter\Genspil\GenSpil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Projekter\Genspil\GenSpil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Projekter\Genspil\GenSpil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Projekter\Genspil\GenSpil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.sourcelink.json

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\PsudoDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PsudoDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Condition.cs",
+              "RelativeDocumentMoniker": "Condition.cs",
+              "ToolTip": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Condition.cs",
+              "RelativeToolTip": "Condition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:23:25.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Genre.cs",
+              "RelativeDocumentMoniker": "Genre.cs",
+              "ToolTip": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Genre.cs",
+              "RelativeToolTip": "Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:23:07.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PsudoDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\PsudoDatabase.cs",
+              "RelativeDocumentMoniker": "PsudoDatabase.cs",
+              "ToolTip": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\PsudoDatabase.cs",
+              "RelativeToolTip": "PsudoDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:08:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Request.cs",
+              "RelativeDocumentMoniker": "Request.cs",
+              "ToolTip": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Request.cs",
+              "RelativeToolTip": "Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:55:35.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Patrick\\Desktop\\Datamatiker\\1. Semester\\Projekter\\Genspil\\GenSpil\\Projekt-GenSpil\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:54:09.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
