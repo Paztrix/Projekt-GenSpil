@@ -10,6 +10,7 @@ namespace GenSpil
 	{
 		Familygame,
 		Campaign,
-		Puzzel
+		Puzzel,
+		NA
 	}
 }

@@ -10,6 +10,7 @@ namespace GenSpil
 	{
 		Perfect,
 		Fine,
+		InWorkshop,
 		Unplayble
 	}
 }

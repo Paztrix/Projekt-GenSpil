@@ -5,15 +5,12 @@
         static void Main(string[] args)
         {
             PsudoDatabase.DatabaseSeeder();
-            var games = PsudoDatabase.games;
 
-
-            foreach (var game in games) 
+            foreach (var game in PsudoDatabase.games) 
             { 
-                Console.WriteLine($"{game.gameType.Name}, {game.prize}");
+                Console.WriteLine($"{game.type.Name}, {game.price}");
             }
 
-            PsudoDatabase.AddDummyRequests();
             Request.DisplayRequests();
         }
     }

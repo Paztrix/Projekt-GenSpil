@@ -1,9 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace GenSpil
 {
@@ -15,16 +19,21 @@ namespace GenSpil
 
         public static void DatabaseSeeder()
         {
-            this.games.Add(gameType: new Game(new GameType(title: "Jumanji", minAge:12, minPalyers:3, maxPlayers:6, genre: Genre.Familygame ), prize: 99.95, Condition: Condition.Fine );
-            this.games.Add(gameType: new Game(new GameType(title: "Monopoly", minAge: 8, minPalyers: 2, maxPlayers: 8, genre: Genre.Familygame), prize: 129.95, Condition: Condition.Perfect);
+            gametypes.Add(new GameType(Name: "Jumanji", Description: "Farligt spil i junglen", MinAge: 12, minPlayers: 3, maxPlayers: 9));
+            gametypes.Add(new GameType(Name: "Monopoli", Description: "", MinAge: 8, minPlayers: 4, maxPlayers: 6));
+            gametypes.Add(new GameType(Name: "Ludo", Description: "", MinAge: 4, minPlayers: 2, maxPlayers: 4));
+
+            games.Add(new Game(id: 1, price: 75.00, gametype: gametypes[0]));
+            games.Add(new Game(id: 2, price: 50.00, gametype: gametypes[0]));
+            games.Add(new Game(id: 3, price: 99.00, gametype: gametypes[1]));
+            games.Add(new Game(id: 4, price: 20.00, gametype: gametypes[2]));
+            games.Add(new Game(id: 5, price: 40.00, gametype: gametypes[2]));
+
+            requests.Add(new Request(1, DateTime.Now.AddDays(-2), "John Doe", "1234567890", "johndoe@email.com", gametypes[2]));
+            requests.Add(new Request(2, DateTime.Now.AddDays(-1), "Jane Smith", "9876543210", "janesmith@email.com", gametypes[0]));
+            requests.Add(new Request(3, DateTime.Now, "Alice Johnson", "5551234567", "alicejohnson@email.com" , gametypes[1]));
         }
+
     }
 
-    //Metode til at tilføje Dummy requests til listen
-        public static void AddDummyRequests()
-        {
-            requests.Add(new Request(1, DateTime.Now.AddDays(-2), "John Doe", "1234567890", "johndoe@email.com"));
-            requests.Add(new Request(2, DateTime.Now.AddDays(-1), "Jane Smith", "9876543210", "janesmith@email.com"));
-            requests.Add(new Request(3, DateTime.Now, "Alice Johnson", "5551234567", "alicejohnson@email.com"));
-        }
-    }
+}

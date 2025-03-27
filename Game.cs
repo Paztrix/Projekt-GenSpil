@@ -1,57 +1,22 @@
 ﻿using System;
+using GenSpil;
 
 public class Game
 {
-    // private Felter/fields
-    private string gameName;
-    private int ageLimit;
-    private int gameVersion;
+    private int id;
+    public double price {  get; private set; }
+    //private Condition condition;
+    public GameType type {  get; private set; }
 
-
-
-
-    // Public properties
-    public string GameName
+    public Game(int id, double price, GameType gametype)
     {
-        get { return gameName; }
-        set
-        {
-            gameName = value;
-        }
+        this.id = id;
+        this.price = price;
+        //this.condition = condition;
+        this.type = gametype;
     }
 
+    public void Display() { }
+    public void Checkout() { }
 
-    // Metode til at sætte aldergrænsen
-
-    public int AgeLimit
-    {
-        get { return ageLimit; }
-
-        set
-
-        {
-            if (value < 0)
-                Console.WriteLine("Forkert input, aldersgrænse kan ikke være negativ");
-            else
-
-                ageLimit = value;
-        }
-    }
-
-    public int GameVersion
-    {
-        get { return gameVersion; } //get method
-        set
-        {
-            gameVersion = value;  //Set method
-
-        }
-    }
-
-
-    // metode med spillets detaljer
-    public void ShowDetails()
-    {
-        Console.WriteLine($"Game: {GameName}, Age Limit: {AgeLimit} Game Version: {GameVersion}");
-    }
 }
