@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace GenSpil
 {
-	enum Genre
+	public enum Genre
 	{
 		Familygame,
 		Campaign,
-		Puzzel,
+		Puzzle,
 		NA
 	}
 }

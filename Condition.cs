@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenSpil
 {
-	enum Condition
+	public enum Condition
 	{
 		Perfect,
 		Fine,

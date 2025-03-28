@@ -18,3 +18,18 @@ C:\Users\benja\source\repos\GenSpil\GenSpil\obj\Debug\net8.0\refint\GenSpil.dll
 C:\Users\benja\source\repos\GenSpil\GenSpil\obj\Debug\net8.0\GenSpil.pdb
 C:\Users\benja\source\repos\GenSpil\GenSpil\obj\Debug\net8.0\GenSpil.genruntimeconfig.cache
 C:\Users\benja\source\repos\GenSpil\GenSpil\obj\Debug\net8.0\ref\GenSpil.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\bin\Debug\net8.0\GenSpil.exe
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\bin\Debug\net8.0\GenSpil.deps.json
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\bin\Debug\net8.0\GenSpil.runtimeconfig.json
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\bin\Debug\net8.0\GenSpil.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\bin\Debug\net8.0\GenSpil.pdb
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.AssemblyInfoInputs.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.sourcelink.json
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\refint\GenSpil.dll
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.pdb
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\GenSpil.genruntimeconfig.cache
+C:\Users\Patrick\Desktop\Datamatiker\1. Semester\Programmering\Projekt-Genspil\Projekt-GenSpil\obj\Debug\net8.0\ref\GenSpil.dll

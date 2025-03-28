@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenSpil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92ec6bfe18e75730b98148f65c163b8a9ebb16c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4becfe93e686aec519a25e0cd71410ae4ba8dfb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenSpil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenSpil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

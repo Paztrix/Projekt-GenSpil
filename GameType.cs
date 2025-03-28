@@ -14,17 +14,16 @@ namespace GenSpil
         public int Age { get; set; }
         public int MinPlayers { get; set; }
         public int MaxPlayers { get; set; }
-        //public Enum Genre { get; set; }
+        public Genre GameGenre { get; set; }
 
-
-        public GameType(string Name, string Description = "", int MinAge = 0, int minPlayers = 0, int maxPlayers = 99 )
+        public GameType(string Name, string Description = "", int MinAge = 0, int minPlayers = 0, int maxPlayers = 99, Genre genre = Genre.NA)
         {
             this.Name = Name;
             this.Description = Description;
             this.Age = MinAge;
             this.MinPlayers = minPlayers;
             this.MaxPlayers = maxPlayers;
-            //this.Genre = genre;
+            this.GameGenre = genre;
         }
     }
 }
